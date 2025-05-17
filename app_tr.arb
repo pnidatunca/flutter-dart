@@ -1,0 +1,20 @@
+{
+  "pizzaBaslik":"Etli Peynir",
+  "peynirYazi":"Peynir",
+  "sucukYazi":"Sucuk",
+  "zeytinYazi":"Zeytin",
+  "biberYazi":"Biber",
+  "teslimatSure":"20 Dk",
+  "teslimatBaslik":"Teslimat",
+  "pizzaAciklama":"Et sever,pizzanla tanışmaya hazırlan!",
+  "fiyat":"150 ₺",
+  "buttonYazi":"SEPETE EKLE",
+  "isDetayi":"İş Detayı",
+  "maas":"Maaş",
+  "uygulama":"Uygulama",
+  "uzaktan":"Uzaktan",
+  "isTipi":"İş Tipi",
+  "isHakkinda":"İş Hakkında",
+  "calismaSaati":"Çalışma Saatleri Hakkında",
+  "sirketHakkinda":"Şirket Hakkında Bilgi"
+}
