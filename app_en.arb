@@ -1,0 +1,20 @@
+{
+  "pizzaBaslik":"Beef Cheese",
+  "peynirYazi":"Cheese",
+  "sucukYazi":"Sausage",
+  "zeytinYazi":"Olive",
+  "biberYazi":"Pepper",
+  "teslimatSure":"20 Min",
+  "teslimatBaslik":"Delivery",
+  "pizzaAciklama":"Meat lover,get ready to meet your pizza!",
+  "fiyat":"$ 5.17",
+  "buttonYazi":"ADD TO CART",
+  "isDetayi":"Job Detail",
+  "maas":"salary",
+  "uygulama":"application",
+  "uzaktan":"Remote",
+  "isTipi":"Job Type",
+  "isHakkinda":"About the Job",
+  "calismaSaati":"About Working Hours",
+  "sirketHakkinda":"Information About The Company"
+}
